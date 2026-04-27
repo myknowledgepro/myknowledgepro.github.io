@@ -1,2 +1,2 @@
-# myknowledgepro.gihub.io
+# myknowledgepro.github.io
 edu
